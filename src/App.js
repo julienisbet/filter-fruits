@@ -3,6 +3,7 @@ import './reset.css';
 import './App.css';
 import Header from './Header.js';
 import Body from './Body.js';
+import Footer from './Footer';
 
 export default class App extends Component {
   render() {
